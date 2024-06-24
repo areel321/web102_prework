@@ -18,6 +18,9 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+* [X] Added buttons to link to stats section and games section
+* [X] Made the navigation bar move with scrolling on the page
+* [X] Edited the css style to improve the look of the navigation bar and description sections
 
 ## Video Walkthrough
 
